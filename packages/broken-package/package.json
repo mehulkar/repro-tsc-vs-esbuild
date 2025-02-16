@@ -1,0 +1,11 @@
+{
+  "name": "@internal/broken-package",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@internal/sideloader-package": "workspace:*"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@internal/with-dep-package",
+  "private": true,
+  "dependencies": {
+    "fast-deep-equal": "2.0.1"
+  }
+}

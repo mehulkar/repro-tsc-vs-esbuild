@@ -1,0 +1,11 @@
+{
+  "name": "app-a",
+  "scripts": {
+    "typecheck": "tsc",
+    "build": "node ./build.mjs ./src/index.ts"
+  },
+  "dependencies": {
+    "@internal/broken-package": "workspace:*",
+    "esbuild": "0.17.19"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@vercel/api",
+  "private": true,
+  "packageManager": "pnpm@8.15.7",
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "5.6.3"
+  },
+  "engines": {
+    "node": "^16",
+    "pnpm": "8"
+  }
+}
